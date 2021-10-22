@@ -50,14 +50,14 @@ x & (~((1 << (n + 1)) - 1)）
 | **#** | **Title**                                                          | **Acceptance** | **Difficulty** | **Favorite** |
 |:-----:|:------------------------------------------------------------------:|:--------------:|:--------------:|:------------:|
 | 29    | Divide Two Integers                                                | 17.0%          | Medium         |              |
-| 67    | Add Binary                                                         | 48.8%          | Easy           |              |
+| 67    | [Add Binary](../solution/0001_0999/0067.%20Add%20Binary.md)        | 48.8%          | Easy           |              |
 | 78    | Subsets                                                            | 68.3%          | Medium         |              |
 | 89    | Gray Code                                                          | 54.2%          | Medium         |              |
 | 90    | Subsets II                                                         | 51.4%          | Medium         |              |
 | 136   | [Single Number](../solution/0001_0999/0136.%20Single%20Number.md)  | 67.8%          | Easy           |              |
 | 137   | [Single Number II](../solution/0001_0999/0137.%20Single%20Number%20II.md) | 55.4%          | Medium         |              |
 | 187   | Repeated DNA Sequences                                             | 43.0%          | Medium         |              |
-| 190   | Reverse Bits                                                       | 45.6%          | Easy           |              |
+| 190   | [Reverse Bits](../solution/0001_0999/0190.%20Reverse%20Bits.md)    | 45.6%          | Easy           |              |
 | 191   | [Number of 1 Bits](../solution/0001_0999/0191.%20Number%20of%201%20Bits.md) | 56.9%          | Easy           |              |
 | 201   | Bitwise AND of Numbers Range                                       | 41.1%          | Medium         |              |
 | 231   | Power of Two                                                       | 44.0%          | Easy           |              |
